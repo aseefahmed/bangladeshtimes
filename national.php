@@ -23,7 +23,7 @@
 		<div class="col-md-12">
 			<div class="aside-advertise-3 scrollToShow">
 				<div class="ad">
-					<img src="http://placehold.it/1000x100" alt="">
+					<img src="https://tpc.googlesyndication.com/simgad/5913740774508430046" alt="">
 					<a href="" class="ad-close-btn"><i class="fa fa-close"></i></a>
 				</div>
 			</div>
@@ -190,7 +190,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 text-center">
-				<a href=""><img src="http://placehold.it/1200x250" alt=""></a>
+				<a href=""><img src="https://images-na.ssl-images-amazon.com/images/G/01/AdProductsWebsite/images/ad-specs/GW_Billboard_BTF_NA3.jpg" alt=""></a>
 			</div>
 		</div>
 	</div>
@@ -336,10 +336,10 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-6 col-xs-6">
-				<a href=""><img src="https://placehold.it/610x250" alt=""></a>
+				<a href=""><img src="http://images.adicted.io/CAZB0ORohRQOTIM.png" width="535px"alt=""></a>
 			</div>
 			<div class="col-sm-6 col-xs-6">
-				<a href=""><img src="https://placehold.it/610x250" alt=""></a>
+				<a href=""><img src="https://blog.semaphore-software.com/wp-content/uploads/2015/05/Amazon.jpg" width="535px" alt=""></a>
 			</div>
 		</div>
 	</div>
@@ -351,9 +351,9 @@
 		<div class="row">
 			<div class="col-sm-6 col-xs-12">
 				<div class="single-thumbnail-item-1">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[30].featured_image}})"></div>
 					<div class="news-content">
-						<h3>৫০ দিনে একটি গানের ভিডিও!</h3>
+						<h3>{{all_news[30].title}}</h3>
 						<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং, সম্পাদনা, যাবতীয় কাজসহ সব মিলিয়ে সর্বোচ্চ সাত দিন পর্যন্ত সময় লাগে বলে জানা গেছে। তবে বেশির ভাগ গানের ভিডিও বানাতে সময় নেওয়া হয় দুই থেকে তিন দিন। আর সেখানে কিনা ঈদের</p>
 						<a href="#" class="news-readmore-btn">বিস্তারিত<i class="fa fa-arrow-right"></i></a>
 					</div>
@@ -361,9 +361,9 @@
 			</div>
 			<div class="col-sm-6 col-xs-12">
 				<div class="single-thumbnail-item-1">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[31].featured_image}})"></div>
 					<div class="news-content">
-						<h3>৫০ দিনে একটি গানের ভিডিও!</h3>
+						<h3>{{all_news[31].title}}</h3>
 						<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং, সম্পাদনা, যাবতীয় কাজসহ সব মিলিয়ে সর্বোচ্চ সাত দিন পর্যন্ত সময় লাগে বলে জানা গেছে। তবে বেশির ভাগ গানের ভিডিও বানাতে সময় নেওয়া হয় দুই থেকে তিন দিন। আর সেখানে কিনা ঈদের</p>
 						<a href="#" class="news-readmore-btn">বিস্তারিত<i class="fa fa-arrow-right"></i></a>
 					</div>
@@ -421,35 +421,17 @@
 		<div class="row">
 			<div class="col-sm-4 col-xs-12">
 				<div class="single-thumbnail-item-3">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[32].featured_image}})"></div>
 					<div class="news-content">
-						<h3>৫০ দিনে একটি গানের ভিডিও!</h3>
+						<h3>{{ all_news[32].title }}</h3>
 						<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং, সম্পাদনা, যাবতীয় কাজসহ সব মিলিয়ে সর্বোচ্চ সাত দিন পর্যন্ত সময় লাগে বলে জানা গেছে। তবে বেশির ভাগ গানের ভিডিও বানাতে সময় নেওয়া হয় দুই থেকে তিন দিন। আর</p>
 						<a href="#" class="news-readmore-btn">বিস্তারিত<i class="fa fa-arrow-right"></i></a>
 					</div>
 				</div>
 				<div class="single-thumbnail-item-3">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[33].featured_image}})"></div>
 					<div class="news-content">
-						<h3>৫০ দিনে একটি গানের ভিডিও!</h3>
-						<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং, সম্পাদনা, যাবতীয় কাজসহ সব মিলিয়ে সর্বোচ্চ সাত দিন পর্যন্ত সময় লাগে বলে জানা গেছে। তবে বেশির ভাগ গানের ভিডিও বানাতে সময় নেওয়া হয় দুই থেকে তিন দিন। আর</p>
-						<a href="#" class="news-readmore-btn">বিস্তারিত<i class="fa fa-arrow-right"></i></a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-4 col-xs-12">
-				<div class="single-thumbnail-item-3">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
-					<div class="news-content">
-						<h3>৫০ দিনে একটি গানের ভিডিও!</h3>
-						<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং, সম্পাদনা, যাবতীয় কাজসহ সব মিলিয়ে সর্বোচ্চ সাত দিন পর্যন্ত সময় লাগে বলে জানা গেছে। তবে বেশির ভাগ গানের ভিডিও বানাতে সময় নেওয়া হয় দুই থেকে তিন দিন। আর</p>
-						<a href="#" class="news-readmore-btn">বিস্তারিত<i class="fa fa-arrow-right"></i></a>
-					</div>
-				</div>
-				<div class="single-thumbnail-item-3">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
-					<div class="news-content">
-						<h3>৫০ দিনে একটি গানের ভিডিও!</h3>
+						<h3>{{ all_news[33].title }}</h3>
 						<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং, সম্পাদনা, যাবতীয় কাজসহ সব মিলিয়ে সর্বোচ্চ সাত দিন পর্যন্ত সময় লাগে বলে জানা গেছে। তবে বেশির ভাগ গানের ভিডিও বানাতে সময় নেওয়া হয় দুই থেকে তিন দিন। আর</p>
 						<a href="#" class="news-readmore-btn">বিস্তারিত<i class="fa fa-arrow-right"></i></a>
 					</div>
@@ -457,17 +439,35 @@
 			</div>
 			<div class="col-sm-4 col-xs-12">
 				<div class="single-thumbnail-item-3">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[34].featured_image}})"></div>
 					<div class="news-content">
-						<h3>৫০ দিনে একটি গানের ভিডিও!</h3>
+						<h3>{{ all_news[34].title }}</h3>
 						<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং, সম্পাদনা, যাবতীয় কাজসহ সব মিলিয়ে সর্বোচ্চ সাত দিন পর্যন্ত সময় লাগে বলে জানা গেছে। তবে বেশির ভাগ গানের ভিডিও বানাতে সময় নেওয়া হয় দুই থেকে তিন দিন। আর</p>
 						<a href="#" class="news-readmore-btn">বিস্তারিত<i class="fa fa-arrow-right"></i></a>
 					</div>
 				</div>
 				<div class="single-thumbnail-item-3">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[35].featured_image}})"></div>
 					<div class="news-content">
-						<h3>৫০ দিনে একটি গানের ভিডিও!</h3>
+						<h3>{{ all_news[35].title }}</h3>
+						<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং, সম্পাদনা, যাবতীয় কাজসহ সব মিলিয়ে সর্বোচ্চ সাত দিন পর্যন্ত সময় লাগে বলে জানা গেছে। তবে বেশির ভাগ গানের ভিডিও বানাতে সময় নেওয়া হয় দুই থেকে তিন দিন। আর</p>
+						<a href="#" class="news-readmore-btn">বিস্তারিত<i class="fa fa-arrow-right"></i></a>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4 col-xs-12">
+				<div class="single-thumbnail-item-3">
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[36].featured_image}})"></div>
+					<div class="news-content">
+						<h3>{{ all_news[36].title }}</h3>
+						<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং, সম্পাদনা, যাবতীয় কাজসহ সব মিলিয়ে সর্বোচ্চ সাত দিন পর্যন্ত সময় লাগে বলে জানা গেছে। তবে বেশির ভাগ গানের ভিডিও বানাতে সময় নেওয়া হয় দুই থেকে তিন দিন। আর</p>
+						<a href="#" class="news-readmore-btn">বিস্তারিত<i class="fa fa-arrow-right"></i></a>
+					</div>
+				</div>
+				<div class="single-thumbnail-item-3">
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[37].featured_image}})"></div>
+					<div class="news-content">
+						<h3>{{ all_news[37].title }}</h3>
 						<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং, সম্পাদনা, যাবতীয় কাজসহ সব মিলিয়ে সর্বোচ্চ সাত দিন পর্যন্ত সময় লাগে বলে জানা গেছে। তবে বেশির ভাগ গানের ভিডিও বানাতে সময় নেওয়া হয় দুই থেকে তিন দিন। আর</p>
 						<a href="#" class="news-readmore-btn">বিস্তারিত<i class="fa fa-arrow-right"></i></a>
 					</div>
@@ -482,62 +482,30 @@
 		<div class="row">
 			<div class="col-sm-4 col-xs-12">
 				<div class="single-thumbnail-item-2">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[38].featured_image}})"></div>
 					<div class="news-content">
 						<a href="">
-							<h3>৫০ দিনে একটি গান!</h3>
+							<h3>{{ all_news[38].title }}</h3>
 							<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং</p>
 						</a>
 						<a href="#" class="news-readmore-btn">বিস্তারিত</a>
 					</div>
 				</div>
 				<div class="single-thumbnail-item-2">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[39].featured_image}})"></div>
 					<div class="news-content">
 						<a href="">
-							<h3>৫০ দিনে একটি গান!</h3>
+							<h3>{{ all_news[39].title }}</h3>
 							<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং</p>
 						</a>
 						<a href="#" class="news-readmore-btn">বিস্তারিত</a>
 					</div>
 				</div>
 				<div class="single-thumbnail-item-2">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[40].featured_image}})"></div>
 					<div class="news-content">
 						<a href="">
-							<h3>৫০ দিনে একটি গান!</h3>
-							<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং</p>
-						</a>
-						<a href="#" class="news-readmore-btn">বিস্তারিত</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-4 col-xs-12">
-				<div class="single-thumbnail-item-2">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
-					<div class="news-content">
-						<a href="">
-							<h3>৫০ দিনে একটি গান!</h3>
-							<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং</p>
-						</a>
-						<a href="#" class="news-readmore-btn">বিস্তারিত</a>
-					</div>
-				</div>
-				<div class="single-thumbnail-item-2">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
-					<div class="news-content">
-						<a href="">
-							<h3>৫০ দিনে একটি গান!</h3>
-							<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং</p>
-						</a>
-						<a href="#" class="news-readmore-btn">বিস্তারিত</a>
-					</div>
-				</div>
-				<div class="single-thumbnail-item-2">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
-					<div class="news-content">
-						<a href="">
-							<h3>৫০ দিনে একটি গান!</h3>
+							<h3>{{ all_news[40].title }}</h3>
 							<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং</p>
 						</a>
 						<a href="#" class="news-readmore-btn">বিস্তারিত</a>
@@ -546,30 +514,62 @@
 			</div>
 			<div class="col-sm-4 col-xs-12">
 				<div class="single-thumbnail-item-2">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[41].featured_image}})"></div>
 					<div class="news-content">
 						<a href="">
-							<h3>৫০ দিনে একটি গান!</h3>
+							<h3>{{ all_news[41].title }}</h3>
 							<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং</p>
 						</a>
 						<a href="#" class="news-readmore-btn">বিস্তারিত</a>
 					</div>
 				</div>
 				<div class="single-thumbnail-item-2">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[42].featured_image}})"></div>
 					<div class="news-content">
 						<a href="">
-							<h3>৫০ দিনে একটি গান!</h3>
+							<h3>{{ all_news[42].title }}</h3>
 							<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং</p>
 						</a>
 						<a href="#" class="news-readmore-btn">বিস্তারিত</a>
 					</div>
 				</div>
 				<div class="single-thumbnail-item-2">
-					<div class="thumbnail-bg single-thumbnail-1"></div>
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[43].featured_image}})"></div>
 					<div class="news-content">
 						<a href="">
-							<h3>৫০ দিনে একটি গান!</h3>
+							<h3>{{ all_news[43].title }}</h3>
+							<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং</p>
+						</a>
+						<a href="#" class="news-readmore-btn">বিস্তারিত</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4 col-xs-12">
+				<div class="single-thumbnail-item-2">
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[44].featured_image}})"></div>
+					<div class="news-content">
+						<a href="">
+							<h3>{{ all_news[44].title }}</h3>
+							<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং</p>
+						</a>
+						<a href="#" class="news-readmore-btn">বিস্তারিত</a>
+					</div>
+				</div>
+				<div class="single-thumbnail-item-2">
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[45].featured_image}})"></div>
+					<div class="news-content">
+						<a href="">
+							<h3>{{ all_news[45].title }}</h3>
+							<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং</p>
+						</a>
+						<a href="#" class="news-readmore-btn">বিস্তারিত</a>
+					</div>
+				</div>
+				<div class="single-thumbnail-item-2">
+					<div class="thumbnail-bg" style="background-image: url(admin/public/images/news/featured/{{all_news[46].featured_image}})"></div>
+					<div class="news-content">
+						<a href="">
+							<h3>{{ all_news[46].title }}</h3>
 							<p>সাধারণত কোনো শিল্পীর একটি গানের ভিডিও তৈরি করতে শুটিং</p>
 						</a>
 						<a href="#" class="news-readmore-btn">বিস্তারিত</a>
@@ -585,7 +585,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 text-center">
-				<a href=""><img src="http://placehold.it/1200x250" alt=""></a>
+				<a href=""><img src="https://tpc.googlesyndication.com/simgad/8868368286689647604" alt=""></a>
 			</div>
 		</div>
 	</div>

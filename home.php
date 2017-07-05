@@ -25,7 +25,7 @@
 		<div class="col-sm-12">
 			<div class="aside-advertise-3 scrollToShow">
 				<div class="ad">
-					<img src="http://placehold.it/1000x100" alt="">
+					<img src="https://tpc.googlesyndication.com/simgad/5913740774508430046" alt="">
 					<a href="" class="ad-close-btn"><i class="fa fa-close"></i></a>
 				</div>
 			</div>
@@ -186,7 +186,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 text-center">
-				<a href=""><img src="http://placehold.it/1085x252" alt=""></a>
+				<a href=""><img src="https://images-na.ssl-images-amazon.com/images/G/01/AdProductsWebsite/images/ad-specs/GW_Billboard_BTF_NA3.jpg" alt=""></a>
 			</div>
 		</div>
 	</div>
@@ -367,11 +367,11 @@
 <div class="section-padding advertise-252">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-6 text-center">
-				<a href=""><img src="http://placehold.it/535x250" alt=""></a>
+			<div class="col-sm-6 col-xs-6">
+				<a href=""><img src="http://images.adicted.io/CAZB0ORohRQOTIM.png" width="535px"alt=""></a>
 			</div>
-			<div class="col-sm-6 text-center pdt-10">
-				<a href=""><img src="http://placehold.it/535x250" alt=""></a>
+			<div class="col-sm-6 col-xs-6">
+				<a href=""><img src="https://blog.semaphore-software.com/wp-content/uploads/2015/05/Amazon.jpg" width="535px" alt=""></a>
 			</div>
 		</div>
 	</div>
