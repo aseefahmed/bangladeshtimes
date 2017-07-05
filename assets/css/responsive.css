@@ -1,0 +1,210 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .double-ad img {
+        max-width: 120px;
+        height: 600px;
+    }
+    .cta-bar {
+        left: -133px;
+        width: 138px;
+    }
+    .cta-bar h2 {
+        font-size: 17px;
+    }
+    .off-canvas-menu ul li a {
+        padding: 14px 0;
+        font-size: 14px;
+    }
+    .off-canvas-menu {
+        width: 250px;
+        margin-left: -250px;
+    }
+    
+    /*single page*/
+/*
+    .left-content-area {
+        flex-basis: 65%;
+    }
+    .single-page-content-wrap{
+        padding: 0;
+    }
+*/
+    .single-page-fb-section .fb-container {
+        width: 220px;
+    }
+    .single-page-content-wrap {
+        padding: 5px;
+    }
+    .news-section-im70 .single-thumbnail-item-2 .thumbnail-bg {
+        width: 85px;
+        height: 60px;
+    }
+}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    a.slider-headline {
+        font-size: 15px;
+    }
+    .off-canvas-menu ul li a {
+        padding: 14px 0;
+        font-size: 14px;
+    }
+    .off-canvas-menu {
+        width: 250px;
+        margin-left: -250px;
+    }
+    .double-ad img {
+        max-width: 95px;
+        height: 600px;
+    }
+    a.slider-headline h3 {
+        font-size: 15px;
+    }
+    .cta-bar {
+        width: 100px;
+        left: -95px;
+    }
+    .cta-bar h2 {
+        font-size: 11px;
+    }
+    .single-featured-item h3,
+    .single-featured-item-big h3 {
+        font-size: 16px;
+    }
+    .single-thumbnail-item-1,
+    .single-thumbnail-item-2,
+    .single-thumbnail-item-3 {
+        border-bottom: 1px solid #fdc29d;
+        padding-bottom: 20px;
+        margin-bottom: 6px;
+    }
+    /*single-page*/
+    .single-page-fb-section .fb-container {
+        width: 171px;
+    }
+    
+    .single-page-content-wrap {
+        padding: 3px;
+    }
+    .comment-section {
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+    .demo-comments {
+        padding: 15px;
+    }
+    .profile-meta {
+        margin-bottom: 30px;
+    }
+    .comment-section {
+        padding: 0 5px;
+    }
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    .off-canvas-menu ul li a {
+        padding: 10px 0;
+        font-size: 14px;
+    }
+    .off-canvas-menu {
+        width: 100%;
+        margin-left: -100%;
+    }
+    .marquee-wrap h3 {
+        font-size: 14px;
+        padding-right: 7px;
+    }
+    .double-ad {
+        display: none;
+        visibility: hidden;
+    }
+    .container {
+        width: 100%;
+    }
+    .cta-bar {
+        display: none;
+        visibility: hidden;
+    }
+    a.slider-headline h3 {
+        font-size: 14px;
+    }
+    .pdt-10 {
+        margin-top: 10px;
+    }
+    .single-featured-item img {
+        float: none;
+    }
+    .single-featured-item,
+    .single-featured-item-big {
+        text-align: center;
+    }
+    .single-featured-item h3,
+    .single-featured-item-big h3 {
+        font-size: 16px;
+    }
+    .single-featured-item-big img {
+        float: none;
+    }
+    .advertise-1 {
+        display: none;
+        visibility: hidden;
+    }
+    .single-thumbnail-item-1,
+    .single-thumbnail-item-2,
+    .single-thumbnail-item-3 {
+        border-bottom: 1px solid #fdc29d;
+        padding-bottom: 20px;
+        margin-bottom: 6px;
+    }
+    .readers-qs .single-thumbnail-item-2 {
+        margin-bottom: 5px;
+        padding-bottom: 40px;
+    }
+    /*single-page*/
+    .single-page-content-wrap {
+        display: inherit; 
+        justify-content: space-between; 
+    }
+    .single-content-bg {
+        height: 150px;
+    }
+    .demo-comments {
+        padding: 10px;
+        padding-top: 25px;
+    }
+    .profile-meta {
+        margin-bottom: 30px;
+    }
+    .profile-meta {
+        text-align: center;
+    }
+    .profile-pic img {
+        left: 50%;
+        margin-left: -70px;
+    }
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .container {
+        width: 100%;
+    }
+    .advertise-1 {
+        display: none;
+        visibility: hidden;
+    }
+    .single-thumbnail-item-1,
+    .single-thumbnail-item-2,
+    .single-thumbnail-item-3 {
+        border-bottom: 1px solid #fdc29d;
+        padding-bottom: 40px;
+        margin-bottom: 0px;
+    }
+    /*single-page*/
+    .news-section-im70 .single-thumbnail-item-2 {
+        min-height: 85px;
+    }
+}
